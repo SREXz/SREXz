@@ -1,4 +1,1 @@
-- Greetings, I am SREXz 
-- Mz hobbzs are Plazing videogames and Reading books (Warhammer, Japanese Lightnovels, Manga, Manhwas, Manhuas)
-- I am currentlz learning Python
-- You can contact me on Discord (_SREX_#0700)
+
