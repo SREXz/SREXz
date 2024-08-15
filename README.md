@@ -1,4 +1,7 @@
-Sup, I'm SREXz 
+Hi, I'm SREX, im learning to code!
 
-I have no idea what i am doing here! 
-AHHHHHHH!
+Goals:
+  Learning HTML/CSS 
+  Learning JavaScript
+  Switch to Typescript
+  Making my first Website and hosting it for everyone to see
